@@ -1,0 +1,127 @@
+StudentID,Name,Age,Gender,City,Math_Score,Science_Score,Attendance_Percent,Enrolled_Date
+S1112,Ananya Gupta,19,male,Salem ,71.0,78.0,64.0,01/07/2025
+S1102,Rahul Singh,18,F,Chennai,85.0,80.0,69.0,01/07/2025
+S1077,Divya Pillai,22,male,Bangalore,96.0,88.0,85.0,15-06-2025
+S1080,Rohan Verma,21,nan,Bangalore,46.0,,66.0,15-06-2025
+S1041,aditi sharma,21,female,chennai,,40.0,54.0,15-06-2025
+S1023,Rahul Singh,20,nan,Trichy,79.0,,72.0,15-06-2025
+S1042,Ishita Bose,20,M,Chennai,-5.0,83.0,74.0,01/07/2025
+S1050,Karthik Iyer,21,F,Bangalore,86.0,90.0,77.0,15-06-2025
+S1006,Rahul Singh,18,Male,Chennai,49.0,43.0,57.0,15-06-2025
+S1094,Karthik Iyer,22,F,Bangalore,46.0,47.0,90.0,nan
+S1099,Ishita Bose,nan,nan,chennai,58.0,61.0,74.0,2025.06.20
+S1053,Ananya Gupta,nan,female,Trichy,98.0,93.0,82.0,2025.06.20
+S1087,Vikram Rao,twenty,Female,Salem ,71.0,,73.0,15-06-2025
+S1067,Divya Pillai,21,M,Chennai,51.0,85.0,56.0,nan
+S1096,Sanjay Kumar,18,nan,Chennai,-5.0,63.0,84.0,15-06-2025
+S1092,Nikhil Joshi,22,Male,Bengaluru,90.0,67.0,65.0,nan
+S1066,Vikram Rao,19,Male,Trichy,87.0,91.0,84.0,01/07/2025
+S1014,aditi sharma,19,Female,Coimbatore,45.0,93.0,52.0,01/07/2025
+S1118,Meera Nair,19,M,Coimbatore,49.0,49.0,78.0,2025.06.20
+S1027,Sneha Reddy,20,female,Salem ,98.0,60.0,78.0,nan
+S1109,Rohan Verma,21,female,Bengaluru,60.0,76.0,51.0,2025.06.20
+S1047,PRIYA NAIR,22,nan,nan,44.0,68.0,62.0,15-06-2025
+S1052,Nikhil Joshi,nan,Female,Coimbatore,59.0,52.0,83.0,01/07/2025
+S1060,Ishita Bose,21,Male,nan,49.0,87.0,88.0,15-06-2025
+S1044,Sneha Reddy,18,nan,chennai,85.0,96.0,81.0,15-06-2025
+S1016,Sanjay Kumar,20,Male,Salem ,36.0,,58.0,2025-06-01
+S1108,Vikram Rao,20,female,Coimbatore,70.0,68.0,91.0,nan
+S1021,Pooja Das,18,F,Trichy,67.0,,52.0,01/07/2025
+S1095,PRIYA NAIR,19,M,Trichy,115.0,56.0,,2025-06-01
+S1078,Karthik Iyer,19,Male,Coimbatore,88.0,58.0,82.0,2025.06.20
+S1116,Rahul Singh,22,female,Bengaluru,67.0,48.0,102.0,2025-06-01
+S1083,Nikhil Joshi,19,M,Salem ,94.0,71.0,72.0,nan
+S1059,Ananya Gupta,22,nan,Bangalore,69.0,60.0,94.0,15-06-2025
+S1047,PRIYA NAIR,22,nan,nan,44.0,68.0,62.0,15-06-2025
+S1046,Rohan Verma,20,Female,nan,64.0,97.0,87.0,01/07/2025
+S1013,Rahul Singh,19,Male,Bangalore,35.0,87.0,55.0,15-06-2025
+S1075,aditi sharma,20,Male,Trichy,59.0,56.0,75.0,01/07/2025
+S1012,Karthik Iyer,twenty,M,chennai,86.0,36.0,98.0,01/07/2025
+S1086,  Nikhil Joshi  ,20,M,Chennai,64.0,96.0,105.0,2025-06-01
+S1097,Meera Nair,20,nan,Salem ,-5.0,47.0,78.0,15-06-2025
+S1019,PRIYA NAIR,21,M,Chennai,55.0,98.0,97.0,2025.06.20
+S1051,Divya Pillai,22,nan,Trichy,52.0,49.0,77.0,01/07/2025
+S1003,PRIYA NAIR,20,Female,nan,104.0,48.0,75.0,2025.06.20
+S1085,  Divya Pillai  ,18,Female,Madurai,96.0,112.0,59.0,2025-06-01
+S1018,  aditi sharma  ,20,female,Trichy,82.0,51.0,71.0,nan
+S1030,PRIYA NAIR,21,F,Coimbatore,99.0,77.0,61.0,2025-06-01
+S1081,Vikram Rao,22,F,Madurai,59.0,111.0,107.0,01/07/2025
+S1038,aditi sharma,20,Female,Madurai,-5.0,79.0,,2025.06.20
+S1031,Sanjay Kumar,22,male,Bengaluru,68.0,92.0,60.0,2025.06.20
+S1055,Nikhil Joshi,21,female,Salem ,91.0,42.0,93.0,15-06-2025
+S1113,Nikhil Joshi,20,Male,chennai,54.0,93.0,104.0,2025-06-01
+S1082,  Divya Pillai  ,21,F,nan,,93.0,80.0,2025-06-01
+S1063,Pooja Das,20,nan,Bangalore,60.0,,89.0,01/07/2025
+S1098,Meera Nair,twenty,F,Trichy,90.0,93.0,54.0,01/07/2025
+S1117,Ananya Gupta,22,nan,Coimbatore,65.0,38.0,83.0,nan
+S1028,  Rahul Singh  ,22,nan,Coimbatore,73.0,57.0,54.0,01/07/2025
+S1004,Ishita Bose,18,nan,chennai,70.0,36.0,91.0,01/07/2025
+S1034,Sanjay Kumar,20,F,Madurai,104.0,50.0,107.0,15-06-2025
+S1106,PRIYA NAIR,twenty,Male,Trichy,,87.0,93.0,nan
+S1037,Sanjay Kumar,18,male,Bengaluru,79.0,92.0,90.0,2025.06.20
+S1022,Pooja Das,nan,F,Bengaluru,51.0,77.0,78.0,nan
+S1033,Ananya Gupta,20,female,Salem ,47.0,,61.0,15-06-2025
+S1110,Ishita Bose,20,Female,nan,36.0,62.0,54.0,15-06-2025
+S1029,aditi sharma,21,M,Chennai,50.0,66.0,61.0,nan
+S1071,Rohan Verma,20,M,Bangalore,91.0,93.0,96.0,01/07/2025
+S1060,Ishita Bose,21,Male,nan,49.0,87.0,88.0,15-06-2025
+S1089,Karthik Iyer,18,male,Bengaluru,69.0,,84.0,2025-06-01
+S1101,Arjun Mehta,18,male,Bengaluru,36.0,55.0,67.0,2025-06-01
+S1036,Ishita Bose,twenty,female,nan,117.0,79.0,80.0,15-06-2025
+S1011,Meera Nair,22,nan,Trichy,37.0,61.0,82.0,2025-06-01
+S1115,Sneha Reddy,21,F,Bangalore,39.0,68.0,75.0,2025-06-01
+S1072,PRIYA NAIR,21,nan,nan,111.0,71.0,,2025-06-01
+S1096,Sanjay Kumar,18,nan,Chennai,-5.0,63.0,84.0,15-06-2025
+S1032,Sanjay Kumar,20,nan,Bengaluru,83.0,,86.0,15-06-2025
+S1017,Vikram Rao,nan,Male,Bengaluru,70.0,59.0,95.0,2025.06.20
+S1088,Vikram Rao,21,M,Bengaluru,91.0,37.0,106.0,15-06-2025
+S1002,Sneha Reddy,21,M,Coimbatore,83.0,94.0,107.0,nan
+S1105,Pooja Das,nan,nan,Bengaluru,38.0,60.0,91.0,nan
+S1114,Rohan Verma,20,F,nan,90.0,57.0,72.0,01/07/2025
+S1055,Nikhil Joshi,21,female,Salem ,91.0,42.0,93.0,15-06-2025
+S1010,Ishita Bose,18,M,Chennai,62.0,64.0,77.0,2025-06-01
+S1005,Rahul Singh,nan,F,Bengaluru,48.0,96.0,94.0,2025.06.20
+S1039,PRIYA NAIR,18,Female,Bangalore,81.0,49.0,52.0,2025.06.20
+S1079,Meera Nair,twenty,nan,Coimbatore,60.0,74.0,92.0,15-06-2025
+S1074,Sneha Reddy,20,M,chennai,87.0,58.0,95.0,15-06-2025
+S1118,Meera Nair,19,M,Coimbatore,49.0,49.0,78.0,2025.06.20
+S1035,Divya Pillai,21,F,chennai,43.0,51.0,95.0,nan
+S1065,Ishita Bose,22,female,nan,45.0,55.0,72.0,15-06-2025
+S1062,Sanjay Kumar,22,Female,chennai,72.0,86.0,57.0,15-06-2025
+S1054,Nikhil Joshi,19,Female,Salem ,58.0,65.0,73.0,2025-06-01
+S1100,Divya Pillai,18,Female,Salem ,87.0,49.0,56.0,2025-06-01
+S1025,Arjun Mehta,20,nan,Coimbatore,81.0,,91.0,2025.06.20
+S1057,Vikram Rao,18,Male,Bangalore,78.0,36.0,86.0,15-06-2025
+S1070,aditi sharma,20,Female,Chennai,97.0,,81.0,2025.06.20
+S1064,Ananya Gupta,21,F,Bengaluru,77.0,39.0,91.0,15-06-2025
+S1107,Vikram Rao,21,Female,Salem ,69.0,,73.0,2025.06.20
+S1061,Vikram Rao,18,M,Salem ,63.0,104.0,82.0,01/07/2025
+S1020,Rahul Singh,19,Female,Chennai,40.0,71.0,95.0,2025.06.20
+S1007,PRIYA NAIR,18,Female,Bangalore,,46.0,72.0,15-06-2025
+S1056,Karthik Iyer,19,Male,Chennai,81.0,98.0,60.0,01/07/2025
+S1076,Sneha Reddy,20,male,Bengaluru,68.0,61.0,76.0,nan
+S1001,Divya Pillai,18,female,chennai,95.0,58.0,51.0,2025.06.20
+S1045,Meera Nair,22,nan,Trichy,39.0,81.0,70.0,2025.06.20
+S1008,PRIYA NAIR,18,nan,Chennai,37.0,48.0,64.0,2025.06.20
+S1049,Arjun Mehta,20,female,Chennai,80.0,79.0,96.0,01/07/2025
+S1078,Karthik Iyer,19,Male,Coimbatore,88.0,58.0,82.0,2025.06.20
+S1103,aditi sharma,19,F,nan,67.0,56.0,88.0,2025.06.20
+S1040,Vikram Rao,19,female,Chennai,70.0,84.0,104.0,2025-06-01
+S1009,Ishita Bose,nan,female,chennai,57.0,77.0,81.0,01/07/2025
+S1091,Meera Nair,19,F,Bangalore,72.0,82.0,105.0,nan
+S1043,Ananya Gupta,19,F,Coimbatore,89.0,,72.0,2025-06-01
+S1111,Sanjay Kumar,18,female,Salem ,44.0,35.0,92.0,2025.06.20
+S1090,Karthik Iyer,18,M,Madurai,90.0,63.0,83.0,15-06-2025
+S1073,Divya Pillai,18,nan,Salem ,53.0,36.0,69.0,nan
+S1120,Sneha Reddy,20,nan,Madurai,77.0,80.0,92.0,2025.06.20
+S1015,PRIYA NAIR,19,nan,Coimbatore,86.0,73.0,60.0,2025.06.20
+S1058,Nikhil Joshi,nan,female,Bangalore,94.0,43.0,84.0,15-06-2025
+S1093,Meera Nair,nan,Male,Madurai,97.0,,80.0,01/07/2025
+S1104,aditi sharma,18,female,Salem ,109.0,66.0,57.0,15-06-2025
+S1024,Ananya Gupta,twenty,Female,Madurai,56.0,49.0,86.0,2025.06.20
+S1084,Arjun Mehta,21,F,Coimbatore,50.0,89.0,79.0,15-06-2025
+S1068,Pooja Das,19,M,nan,-5.0,83.0,77.0,15-06-2025
+S1119,Arjun Mehta,21,M,Madurai,80.0,60.0,55.0,01/07/2025
+S1026,Sanjay Kumar,18,female,Bengaluru,96.0,,96.0,nan
+S1069,Meera Nair,19,F,Trichy,64.0,64.0,50.0,2025.06.20
+S1048,Arjun Mehta,18,Female,Trichy,,113.0,68.0,nan
